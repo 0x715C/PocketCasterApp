@@ -74,5 +74,8 @@
     "ajv": "^6.5.4",
     "electron": "^1.8.8",
     "electron-builder": "^20.26.1"
+  },
+  "dependencies": {
+    "mpris-service": "^1.1.3"
   }
 }
